@@ -1,3 +1,4 @@
+# Make the code output True; there is a hint given
 my_dict = {
     1: "1",
     2: "2",
