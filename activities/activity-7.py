@@ -1,3 +1,4 @@
+# Find the bug
 my_amazing_file = open("main.py","r")
 
 for line_of_code in my_amazing_file:
