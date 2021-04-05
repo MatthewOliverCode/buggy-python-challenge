@@ -5,7 +5,7 @@ my_dict = {
     3: "3"
 }
 print(1 in my_dict)
-if my_dict.get(1) in my_dict:
+if 1 in my_dict:
     print(True)
 else:
     print(False)
